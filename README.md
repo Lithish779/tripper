@@ -1,6 +1,12 @@
 # PolicyFlow: Fault-Tolerant Insurance Issuance & Reconciliation Engine
 *Campus Placement | Software Engineering Practical Assessment*
 
+**Assignment Reference:** `TRIPPERS SHIELD TC.43933.2027.64564 & TC.43933.2027.64696`  
+**Candidate GitHub:** [@Lithish779](https://github.com/Lithish779)  
+**Repository URL:** [https://github.com/Lithish779/tripper](https://github.com/Lithish779/tripper)  
+**Reviewer:** [@MasterAdmin2](https://github.com/MasterAdmin2)  
+**Submission Deadline:** 23-10-2026 till 11:59 PM  
+
 [![Automated Tests](https://img.shields.io/badge/PHPUnit-20%20Passed%20%7C%20104%20Assertions-brightgreen)](https://github.com/Lithish779/tripper)
 [![Laravel](https://img.shields.io/badge/Laravel-11.x-red)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-8.2%2B-blue)](https://php.net)
